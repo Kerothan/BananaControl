@@ -9,11 +9,11 @@ BananaControl is a Discord Bot focused on providing all-in-one features.  The pr
 * Polls
 * Plus more...
 
-##Stay Tuned!
+## Stay Tuned!
 
 BananaControl is a new and upcoming bot.  We have many planned features and encourage you to stick with us. Report any issues you find and we will address them at our soonest availability.
 
-##How to contribute?
+## How to contribute?
 
 There are plenty of ways to contribute and help support the growth of BananaControl!
 
@@ -22,7 +22,7 @@ There are plenty of ways to contribute and help support the growth of BananaCont
 * If you are a graphics designer, we could always use new images, logos and gifs to add to the fray.
 * If you program, work with us and add some of your favorite features. Check out [Discord4J's library](https://github.com/Discord4J/Discord4J/blob/master/README.md) if you are unfamiliar and reach out for a conversation.
 
-##Donations
+## Donations
 
 Donations are an important part to the overall growth of BananaControl.  Your contributions help provide server space and fund the development of the bot itself. 
 
