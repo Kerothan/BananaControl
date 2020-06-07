@@ -32,7 +32,7 @@ Donations are an important part to the overall growth of BananaControl.  Your co
 
 If you would like to donate to keep us working please feel free to send in donations via paypal to 
 
->DigitalRonin@gmail.com
+>DigitalRonin507@gmail.com
 
 
 
