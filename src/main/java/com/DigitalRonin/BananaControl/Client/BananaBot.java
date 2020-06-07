@@ -1,5 +1,6 @@
 package com.DigitalRonin.BananaControl.Client;
 
+import com.DigitalRonin.BananaControl.Client.Interfaces.Command;
 import discord4j.core.DiscordClient;
 import discord4j.core.DiscordClientBuilder;
 import discord4j.core.event.domain.lifecycle.ReadyEvent;
