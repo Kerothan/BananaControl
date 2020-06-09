@@ -1,8 +1,18 @@
 package com.DigitalRonin.BananaControl.Client.Interfaces;
 
 import discord4j.core.event.domain.message.MessageCreateEvent;
-import reactor.core.publisher.Mono;
+
+import java.util.List;
 
 public interface Command {
-    Mono<Void> execute(MessageCreateEvent event);
+    void handle(List<String> args, MessageCreateEvent event);
+
+    String getInvoke();
+
+    String[] getAlias();
+
+    Category getCategory();
+
+    enum Category {ADMIN, MODERATION, BOT, MUSIC, STOCKS, MISC, OWNER}
+
 }
