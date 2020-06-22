@@ -32,7 +32,9 @@ Donations are an important part to the overall growth of BananaControl.  Your co
 
 If you would like to donate to keep us working please feel free to send in donations via paypal to 
 
->DigitalRonin507@gmail.com
+[![Donate Via Paypal](https://img.shields.io/badge/Donate%20Via%20Paypal-steelblue)](https://)
+
+
 
 
 
