@@ -20,16 +20,15 @@ BananaControl is a new and upcoming bot.  We have many planned features and enco
 
 There are plenty of ways to contribute and help support the growth of BananaControl!
 
-* Send in your resources and ideas.  We are always looking for reactions, pictures and functionalities to add to BananaControl.
+* Send us your design ideas and assets.  We are always looking for new images, logos, gifs and functionalities to add to BananaControl.
 * Donate to us monetarily.  Servers and time aren't free and your contribution can go a long way to supporting the maintenance and growth of your favorite bot.
-* If you are a graphics designer, we could always use new images, logos and gifs to add to the fray.
-* If you program, work with us and add some of your favorite features. Check out [Discord4J's library](https://github.com/Discord4J/Discord4J/blob/master/README.md) if you are unfamiliar and reach out for a conversation.
+* If you program, work with us and add some of your favorite features. Check out [Discord's library](https://discord.js.org/) if you are unfamiliar and reach out for a conversation.
 
 ## Donations
 
 Donations are an important part to the overall growth of BananaControl.  Your contributions help provide server space and fund the development of the bot itself. 
 
-If you would like to donate to keep us working please feel free to send in donations via paypal to 
+If you would like to donate to keep us working please feel free to send in donations via paypal too
 
 [![Donate Via Paypal](https://img.shields.io/badge/Donate%20Via%20Paypal-steelblue)](https://)
 
