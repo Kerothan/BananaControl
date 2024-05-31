@@ -1,7 +1,7 @@
 # BananaControl
 <a href="https://"><img align="right" src="https://raw.githubusercontent.com/DigitalRonin8/bananacontrol-web/master/public/BananaControl_Logo.png" width=30%></a>
 
-[![Support Server Invite](https://img.shields.io/discord/712773497885163582.svg?color=7289da&label=BananaControl&logo=discord&style=flat-square)](https://discord.gg/Va44PAd)
+[![Support Server Invite](https://img.shields.io/discord/712773497885163582.svg?color=7289da&label=BananaControl&logo=discord&style=flat-square)](https://discord.gg/FFP2BuSaUr)
 [![Get The Bot](https://img.shields.io/badge/Get%20BananaControl-v1.0.0--alpha.5-orange)](https://discordapp.com/oauth2/authorize?client_id=712097790561615912&scope=bot)
 
 BananaControl is a Discord Bot focused on providing all-in-one features.  The project is based off the  [Discord4J library](https://github.com/Discord4J/Discord4J/blob/master/README.md). 
