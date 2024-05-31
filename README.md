@@ -1,6 +1,6 @@
 # BananaControl
 
-[![Support Server Invite](https://img.shields.io/discord/712773497885163582.svg?color=7289da&label=BananaControl&logo=discord&style=flat-square)](https://discord.gg/FFP2BuSaUr)
+[![Support Server Invite](https://img.shields.io/discord/712097790561615912.svg?color=7289da&label=BananaControl&logo=discord&style=flat-square)](https://discord.gg/FFP2BuSaUr)
 
 [![Get The Bot](https://img.shields.io/badge/Get%20BananaControl-v1.0.0--alpha.5-orange)](https://discordapp.com/oauth2/authorize?client_id=712097790561615912&scope=bot)
 
