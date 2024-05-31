@@ -1,5 +1,4 @@
 # BananaControl
-<a href="https://"><img align="right" src="https://raw.githubusercontent.com/DigitalRonin8/bananacontrol-web/master/public/BananaControl_Logo.png" width=30%></a>
 
 [![Support Server Invite](https://img.shields.io/discord/712773497885163582.svg?color=7289da&label=BananaControl&logo=discord&style=flat-square)](https://discord.gg/FFP2BuSaUr)
 
