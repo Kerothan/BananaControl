@@ -3,7 +3,7 @@
 [![Support Server Invite](https://img.shields.io/discord/1087759492558639205?color=7289da&label=BananaControl&logo=discord&style=plastic)](https://discord.gg/FFP2BuSaUr)
 [![Get The Bot](https://img.shields.io/badge/Get%20BananaControl-v1.0.0--alpha-orange?style=plastic)](https://discordapp.com/oauth2/authorize?client_id=712097790561615912&scope=bot)
 
-BananaControl is a Discord Bot focused on providing all-in-one features.  The project is based off the  [Discord4J library](https://github.com/Discord4J/Discord4J/blob/master/README.md). 
+BananaControl is a Discord Bot focused on providing all-in-one features.
  
 * Music
 * Server Manager / Moderation
@@ -14,7 +14,7 @@ BananaControl is a Discord Bot focused on providing all-in-one features.  The pr
 
 ## Stay Tuned!
 
-BananaControl is a new and upcoming bot.  We have many planned features and encourage you to stick with us. Report any issues you find and we will address them at our soonest availability.
+BananaControl is a new and upcoming bot.  We have many planned features and encourage you to stick with us. Report any issues you find in our discord linked above so we can address them.
 
 ## How to contribute?
 
