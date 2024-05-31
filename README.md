@@ -22,7 +22,7 @@ There are plenty of ways to contribute and help support the growth of BananaCont
 
 * Send us your design ideas and assets.  We are always looking for new images, logos, gifs and functionalities to add to BananaControl.
 * Donate to us monetarily.  Servers and time aren't free and your contribution can go a long way to supporting the maintenance and growth of your favorite bot.
-* If you program, work with us and add some of your favorite features. Check out [Discord's library](https://discord.js.org/) if you are unfamiliar and reach out for a conversation.
+* If you program, work with us and add some of your favorite features. Check out [Discord JS](https://discord.js.org/) if you are unfamiliar and reach out for a conversation.
 
 ## Donations
 
